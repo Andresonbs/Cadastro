@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Cadastro</string>
+    <string name="nome">Nome Completo</string>
+    <string name="telefone">Telefone</string>
+    <string name="placeholder">Ex.:12-93456-7890</string>
+    <string name="email">E-mail</string>
+    <string name="ingressar_email">Ingressar na lista de e-mails?</string>
+    <string name="sexo">Sexo</string>
+    <string name="masculino">Masculino</string>
+    <string name="feminino">Feminino</string>
+    <string name="cidade">Cidade</string>
+    <string name="UF">UF</string>
+    <string-array name="estados">
+        <item>SP</item>
+        <item>BH</item>
+        <item>RJ</item>
+        <item>MG</item>
+    </string-array>
+    <string name="limpar">Limpar</string>
+    <string name="salvar">Salvar</string>
+</resources>
